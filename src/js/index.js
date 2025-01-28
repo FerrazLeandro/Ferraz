@@ -70,3 +70,5 @@ function leiaMais() {
     btnLeiaMais.innerHTML = isHidden ? "Leia Mais" : "Leia Menos";
 }
 
+document.getElementById("year").textContent = new Date().getFullYear();
+

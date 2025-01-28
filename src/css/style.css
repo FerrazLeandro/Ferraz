@@ -568,7 +568,7 @@ section {
 }
 
 .footer-text p {
-    font: 16px;
+    font-size: 14px;
     color: var(--white-color);
 }
 
